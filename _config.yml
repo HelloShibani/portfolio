@@ -7,10 +7,13 @@ description: |
     <a href="https://www.linkedin.com/in/shibaniroychoudhury/">LinkedIn</a> |
     <a href="https://github.com/helloshibani">GitHub</a>
     <br>
-    I'm currently pursuing a PG-Diploma in Data Science and AI and have over 13 years of experience in software development and client management. My journey has been a blend of technology and business, giving me a unique perspective on delivering impactful solutions.
+    👋 Hi, I'm Shibani Roychoudhury
+I'm a passionate Data Science professional with 15+ years of experience in software development, payroll processing systems, and client management. Currently, I'm pursuing a Post Graduate Diploma in Data Science and AI and transitioning into the data science domain, specializing in NLP and AI. My journey has taken me from backend development and managing large-scale payroll systems to exploring advanced analytics, machine learning, and data-driven insights.
+
+I love solving complex problems, analyzing data, and applying ML techniques to real-world challenges. Always keen to learn and grow in the tech space!
     <br>
   </p>
   
-show_downloads: true
+show_downloads: false
 google_analytics:
 theme: jekyll-theme-minimal
