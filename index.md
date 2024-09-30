@@ -1,17 +1,26 @@
 # Data Science Portfolio
+---
 
 ## EDA CASE STUDY
 
 
 ### Banking Risk Analytics EDA Case Study
 
-This repository contains a case study aimed at applying Exploratory Data Analysis (EDA) techniques to a real business scenario in the banking and financial services sector. The objective is to develop a fundamental understanding of risk analytics and how data can be leveraged to minimize financial risks associated with lending to customers.
+This project involved analyzing customer data to identify patterns in loan defaults. Using exploratory data analysis (EDA), I investigated key variables that influence whether a customer is likely to default on a loan. Insights gained from this analysis help banks assess risk and make informed decisions in lending. Key skills demonstrated include data cleaning, feature selection, statistical analysis, and visualization to detect trends related to defaulters.
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/helloshibani/Banking_Risk_Analytics_EDA)
 
 <center><img src="assets/img/BANKING_RISK_Analysis.png" alt="Banking Risk Analytics EDA Case Study" width="400" height="300"/></center>
 
-### Header 3
+## Machine learning
+
+## Lead Scoring Case Study
+
+In this project, I developed a logistic regression model to predict the likelihood of leads converting into customers for an EdTech company. After performing exploratory data analysis (EDA) to identify key factors influencing lead conversion, I built a scoring system to prioritize leads based on their conversion potential. The model helped optimize sales efforts and improve marketing efficiency. Key skills demonstrated include data preprocessing, feature engineering, logistic regression, and model evaluation.
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/helloshibani/Lead_Scoring_Case_Study)
+
+<center><img src="assets/img/Lead_Scoring_Case_Study.png" alt="Lead Scoring Case Study" width="400" height="300"/></center>
 
 ```js
 // Javascript code with syntax highlighting.
