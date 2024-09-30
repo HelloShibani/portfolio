@@ -12,9 +12,12 @@ This project involved analyzing customer data to identify patterns in loan defau
 
 <center><img src="assets/img/BANKING_RISK_Analysis.png" alt="Banking Risk Analytics EDA Case Study" width="400" height="300"/></center>
 
+
+
 ## Machine learning
 
-## Lead Scoring Case Study
+
+### Lead Scoring Case Study
 
 In this project, I developed a logistic regression model to predict the likelihood of leads converting into customers for an EdTech company. After performing exploratory data analysis (EDA) to identify key factors influencing lead conversion, I built a scoring system to prioritize leads based on their conversion potential. The model helped optimize sales efforts and improve marketing efficiency. Key skills demonstrated include data preprocessing, feature engineering, logistic regression, and model evaluation.
 
