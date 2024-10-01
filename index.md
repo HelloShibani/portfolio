@@ -14,6 +14,10 @@ This project involved analyzing customer data to identify patterns in loan defau
 
 
 
+
+
+           
+
 ## Machine learning
 
 
