@@ -12,12 +12,7 @@ This project involved analyzing customer data to identify patterns in loan defau
 
 <center><img src="assets/img/BANKING_RISK_Analysis.png" alt="Banking Risk Analytics EDA Case Study" width="400" height="300"/></center>  
 
-
-
-
-
   
-
 ----  
 
 ## Machine learning
