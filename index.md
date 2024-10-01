@@ -10,7 +10,12 @@ This project involved analyzing customer data to identify patterns in loan defau
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/helloshibani/Banking_Risk_Analytics_EDA)
 
-<center><img src="assets/img/BANKING_RISK_Analysis.png" alt="Banking Risk Analytics EDA Case Study" width="400" height="300"/></center>
+<center><img src="assets/img/BANKING_RISK_Analysis.png" alt="Banking Risk Analytics EDA Case Study" width="400" height="300"/></center>  
+
+
+
+
+  
 
 
 
