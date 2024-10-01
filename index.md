@@ -27,6 +27,8 @@ In this project, I developed a logistic regression model to predict the likeliho
 <center><img src="assets/img/Lead_Scoring_Case_Study.png" alt="Lead Scoring Case Study" width="400" height="300"/></center>  
 
 
+
+  
 ### BoomBikes Demand Prediction Case Study
 
 This project analyzes bike-sharing data to predict demand using a linear regression model. Key variables identified include holiday, temperature, windspeed, seasonal factors (Winter and Summer), September, year (2019), and weather conditions (Light Snow, Mist + Cloudy). Notably, holidays, windspeed, and misty or snowy weather negatively impact demand, which aligns with intuitive expectations. Through data preprocessing and exploratory data analysis (EDA), the model provides insights into peak usage times and the effects of weather on rentals. This work demonstrates skills in data analysis, feature engineering, modeling, and evaluation using Python and relevant libraries.
