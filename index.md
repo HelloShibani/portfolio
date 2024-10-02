@@ -1,11 +1,12 @@
 # Data Science Portfolio
 ---
 
-## EDA CASE STUDY
+## Exploratory Data Analysis (EDA) Projects: Uncovering Insights through Data Exploration
 
 
-### Banking Risk Analytics EDA Case Study
+### Case Study : Predicting Loan Default Patterns through Exploratory Data Analysis (EDA) in the Banking Sector  
 
+  
 This project involved analyzing customer data to identify patterns in loan defaults. Using exploratory data analysis (EDA), I investigated key variables that influence whether a customer is likely to default on a loan. Insights gained from this analysis help banks assess risk and make informed decisions in lending. Key skills demonstrated include data cleaning, feature selection, statistical analysis, and visualization to detect trends related to defaulters.
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/helloshibani/Banking_Risk_Analytics_EDA)
@@ -15,13 +16,13 @@ This project involved analyzing customer data to identify patterns in loan defau
   
 ----  
 
-## Machine learning
+## Machine Learning Projects: Driving Innovation through Predictive Modeling
 
 
-### Lead Scoring Case Study
+### Case Study: Optimizing Lead Scoring with Logistic Regression for Enhanced Sales Strategies
 
-In this project, I developed a logistic regression model to predict the likelihood of leads converting into customers for an EdTech company. After performing exploratory data analysis (EDA) to identify key factors influencing lead conversion, I built a scoring system to prioritize leads based on their conversion potential. The model helped optimize sales efforts and improve marketing efficiency. Key skills demonstrated include data preprocessing, feature engineering, logistic regression, and model evaluation.
-
+This case study addresses the challenge faced by X Education, which sells online courses to professionals. Despite acquiring around 100 leads daily, only 30 convert into sales. To enhance this, a Logistic Regression model was developed to assign lead scores between 0 and 100, helping the sales team prioritize 'Hot Leads' likely to convert. The model is adaptable to future requirements and market changes. A comprehensive analysis and implementation recommendations were also compiled for presentation, showcasing analytical skills and expertise in predictive modeling to solve real-world business challenges.
+  
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/helloshibani/Lead_Scoring_Case_Study)
 
 <center><img src="assets/img/Lead_Scoring_Case_Study.png" alt="Lead Scoring Case Study" width="400" height="300"/></center>  
@@ -29,109 +30,25 @@ In this project, I developed a logistic regression model to predict the likeliho
 
 
   
-### BoomBikes Demand Prediction Case Study
+### Case Study: Demand Prediction for Bike Sharing Using Linear Regression
 
 This project analyzes bike-sharing data to predict demand using a linear regression model. Key variables identified include holiday, temperature, windspeed, seasonal factors (Winter and Summer), September, year (2019), and weather conditions (Light Snow, Mist + Cloudy). Notably, holidays, windspeed, and misty or snowy weather negatively impact demand, which aligns with intuitive expectations. Through data preprocessing and exploratory data analysis (EDA), the model provides insights into peak usage times and the effects of weather on rentals. This work demonstrates skills in data analysis, feature engineering, modeling, and evaluation using Python and relevant libraries.
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/helloshibani/BoomBikes_BikeSharing_CASEStudy)
 
-<center><img src="assets/img/Bike_Sharing2.png" alt="BoomBikes Demand Prediction Case Study" width="400" height="300"/></center>
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+<center><img src="assets/img/Bike_Sharing2.png" alt="BoomBikes Demand Prediction Case Study" width="400" height="300"/></center>  
 
 
-### Definition lists can be used with HTML syntax.
+----  
 
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
+## SQL Case Studies: Data-Driven Insights for Strategic Decision Making
 
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
 
-```
-The final element.
-```
+### Case Study: Strategic Insights for Global Film Release from RSVP Movies
+
+In this case study, I analyzed data for RSVP Movies, a prominent Indian film production company, in preparation for a global film release in 2022. Using MySQL, I examined three years of previous releases to uncover insights on box office performance, audience demographics, and marketing strategies. By extracting key metrics such as average ticket sales and genre performance, RSVP Movies was able to identify trends and optimize marketing efforts. The findings provided actionable recommendations, positioning the company for a successful global release and showcasing the impact of data analysis on strategic decision-making.  
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/helloshibani/RSVP_CASE_Study)
+
+<center><img src="assets/img/RSVP_Movies.png" alt="Lead Scoring Case Study" width="400" height="300"/></center>  
+
